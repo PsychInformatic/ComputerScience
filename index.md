@@ -3,6 +3,11 @@ layout: default
 title: "Portfolio Homepage"
 ---
 
+> This is a quote
+
+> it shows up differently
+
+![a super orange cat(/assets/cute_cat.jpg/)
 
 
 
